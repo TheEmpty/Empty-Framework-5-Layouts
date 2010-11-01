@@ -6,5 +6,5 @@
 
 == Where do I begin!?
  Check out the following files and view their source
-  html/skeleton.html
-  html/css/desktop.css
+  html/skeleton.html (uses /html/css/desktop.css)
+  html/css/skeleton.css

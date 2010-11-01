@@ -1,0 +1,63 @@
+body{
+	/* The wrapper */
+}
+
+hgroup h1{
+	/* Site name */
+}
+
+hgroup h2{
+	/* Site tagline */
+}
+
+nav{
+	/* Chain navigation wrapper */
+}
+
+nav ul{
+	/* This list the links */
+}
+
+nav ul li{
+	/* This is a link */
+}
+
+nav ul li a{
+	/* The actual link element */
+}
+
+aside{
+	/* Aside wrapper; used for links and/or extra content */
+}
+
+aside ul{
+	/* This list the links */
+}
+
+aside ul li{
+	/* This is a link */
+}
+
+aside ul li a{
+	/* The actual link element */
+}
+
+section{
+	/* content wrapper */
+}
+
+section article{
+	/* Content block wrapper */
+}
+
+section article header{
+	/* Header of the post */
+}
+
+section article section{
+	/* The body of the post */
+}
+
+footer{
+	/* Footer for the layout */
+}
