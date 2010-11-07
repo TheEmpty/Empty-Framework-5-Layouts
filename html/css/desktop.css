@@ -130,7 +130,7 @@ section article header {
  font-size: 20px;
 }
 
-section article section {
+section article details {
  background-color: lightgrey;
  width: 75%;
  padding-left: 20px;
@@ -141,9 +141,11 @@ section article section {
  margin-bottom: 25px;
  padding-bottom: 5px;
  padding-top: 5px;
+ border-left: 2px solid black;
+ border-bottom: 2px solid black;
 }
 
-.flash_notice section {
+.flash_notice details {
   color: #333;
   background:#fff9d7;
   border: 1px solid #e2c822;
@@ -163,7 +165,7 @@ section article section {
   vertical-align: baseline;
 }
 
-.flash_error section {
+.flash_error details {
   color: #333;
   background:#ffebe8;
   border: 1px solid #dd3c10;

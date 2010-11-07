@@ -19,7 +19,7 @@ nav ul{
 }
 
 nav ul li{
-	/* This is a link */
+	/* This is the li the link is inside */
 }
 
 nav ul li a{
@@ -54,7 +54,7 @@ section article header{
 	/* Header of the post */
 }
 
-section article section{
+section article details{
 	/* The body of the post */
 }
 
